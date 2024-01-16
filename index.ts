@@ -7,3 +7,5 @@ const read = (text: string) => {
 const msg = read("Hello world bun!")
 
 console.log(msg);
+
+
